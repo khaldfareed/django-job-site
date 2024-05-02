@@ -23,6 +23,7 @@ blog
     - search
     - comment
     - recent posts
+    - hi
 
 
 
